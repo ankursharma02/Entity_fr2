@@ -1,0 +1,14 @@
+D:\C#pro\AspnetCore\First_app\bin\Debug\netcoreapp2.1\First_app.deps.json
+D:\C#pro\AspnetCore\First_app\bin\Debug\netcoreapp2.1\First_app.runtimeconfig.json
+D:\C#pro\AspnetCore\First_app\bin\Debug\netcoreapp2.1\First_app.runtimeconfig.dev.json
+D:\C#pro\AspnetCore\First_app\bin\Debug\netcoreapp2.1\First_app.dll
+D:\C#pro\AspnetCore\First_app\bin\Debug\netcoreapp2.1\First_app.pdb
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.csprojAssemblyReference.cache
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.csproj.CoreCompileInputs.cache
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.RazorAssemblyInfo.cache
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.RazorAssemblyInfo.cs
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.AssemblyInfoInputs.cache
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.AssemblyInfo.cs
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.RazorTargetAssemblyInfo.cache
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.dll
+D:\C#pro\AspnetCore\First_app\obj\Debug\netcoreapp2.1\First_app.pdb

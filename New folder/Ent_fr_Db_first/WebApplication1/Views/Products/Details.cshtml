@@ -1,0 +1,23 @@
+﻿@model WebApplication1.Models.tblProduct
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Product Details</h2>
+<table border="1">
+    <tr>
+        <td>Product ID</td>
+        <td>@Model.productid</td>
+    </tr>
+    <tr>
+        <td>Product Name</td>
+        <td>@Model.name</td>
+    </tr>
+    <tr>
+        <td>Product Price</td>
+        <td>@Model.price</td>
+        </tr>
+</table>
+<br/>
+@Html.ActionLink("Back to product list","Index",new { id=Model.Category_Categoryid})
